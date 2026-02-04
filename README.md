@@ -1,4 +1,4 @@
-<p align="center">
+<img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/0edc7229-42a2-4b71-a35d-7c85cac3cc6b" /><img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/0edc7229-42a2-4b71-a35d-7c85cac3cc6b" /><p align="center">
   <img src="assets/logistica.jpg" alt="Logística e Gestão" width="100%">
 </p>
 
@@ -50,7 +50,7 @@ para lidar com rotinas administrativas, indicadores e apoio à tomada de decisã
  
 - 💼 LinkedIn: https://linkedin.com/in/SEU-LINKEDIN  
 - ✉️ Email: seuemail@email.com  
-- WhatsApp: 79 99884-9253
+- 📲 WhatsApp: 79 99884-9253
 ---
 
 <p align="center">
