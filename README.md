@@ -47,7 +47,7 @@ para lidar com rotinas administrativas, indicadores e apoio à tomada de decisã
 
 ## 🌐 Contato
 
-- 💻 GitHub: https://github.com/verinhaigs-droid  
+ 
 - 💼 LinkedIn: https://linkedin.com/in/SEU-LINKEDIN  
 - ✉️ Email: seuemail@email.com  
 
