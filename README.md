@@ -50,7 +50,7 @@ para lidar com rotinas administrativas, indicadores e apoio à tomada de decisã
  
 - 💼 LinkedIn: https://linkedin.com/in/SEU-LINKEDIN  
 - ✉️ Email: seuemail@email.com  
-
+- WhatsApp: 79 99884-9253
 ---
 
 <p align="center">
